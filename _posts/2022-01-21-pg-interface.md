@@ -1,6 +1,6 @@
 ---
 title: Iterface Easy box on OffSec Proving Grounds - OSCP Preparation.
-tags: [oscp easy box, PG easy box, enumeration, API, RCE, linux]
+tags: [oscp easy box, PG easy box, enumeration, API, rce, linux]
 categories: [OSCP, Proving Grounds]
 comments: true
 date: 2022-01-21 09:33:00
